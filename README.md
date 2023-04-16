@@ -1,4 +1,4 @@
 # sheela-ai
 automated AI using python 
-run sheela_main as Main File integrate each into a single folder
+For Some Safety Reason I Can't provide you my API KEY so you have to get your own
 
